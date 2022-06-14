@@ -81,7 +81,7 @@ button{
     position: absolute;
     background-color: #101250;
     margin-top: 190px;
-    background-image: url("D./images/ad_background.png");
+    background-image: url("./images/ad_background.png");
     left: 60px;
 }
 #content2 img{
