@@ -50,16 +50,9 @@ button{
 }
 #but3{
     background-image: linear-gradient(#81b5f4, #5d8bc3);
-
 }
 
-#hr1 {
-    width: 240px;
-    border-top: 3px solid rgb(70, 70, 70);
-    position: relative;
-    top: 140px;
-    right: 460px;
-}
+
 
 /** **/
 #content1 {
@@ -72,15 +65,19 @@ button{
     left: 60px;
 }
 
-
+#hr1 {
+    border-top: 3px solid rgb(70, 70, 70);
+    position: relative;
+    top: 40px;
+}
 
 /** **/
 #content2 {
     width: 250px;
-    height: 300px;
+    height: 330px;
     position: absolute;
     background-color: #101250;
-    margin-top: 190px;
+    margin-top: 220px;
     background-image: url("./images/ad_background.png");
     left: 60px;
 }
@@ -135,19 +132,17 @@ button{
 }
 
 #hr2 {
-    width: 720px;
     border-top: 3px solid rgb(70, 70, 70);
     position: relative;
-    top: 35px;
-    left: 225px;
 }
+
 
 /** **/
 #content4 {
     width: 700px;
     height: 450px;
     position: absolute;
-    margin-top: 20px;
+    margin-top: 50px;
     margin-left: 500px;
 }
 #content4 h3{
